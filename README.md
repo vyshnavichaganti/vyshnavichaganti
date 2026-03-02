@@ -94,11 +94,6 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Vyshnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vyshnavichaganti&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavichaganti&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ⭐ *If you find my projects interesting, feel free to star them!*
