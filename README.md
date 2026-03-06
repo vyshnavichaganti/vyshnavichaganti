@@ -5,16 +5,10 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-vyshnavichaganti-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/GB2023001544/)
 [![Email](https://img.shields.io/badge/Email-vyshnavireddychaganti12@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vyshnavireddychaganti12@gmail.com)
 
----
-
-🎓 **B.Tech CSE (AI & ML)** @ GITAM Deemed University, Bangalore — CGPA: **8.48**
-🤖 Passionate about **NLP • Generative AI • Machine Learning • Data Science**
-💼 Actively seeking **AI/ML Internship — Summer 2026**
-🏆 **Smart India Hackathon Runner-Up** | **TCS NQT Qualified** (67.91 percentile)
 
 ---
 
-🎓 **B.Tech CSE (AI & ML)** @ GITAM Deemed University, Bangalore — CGPA: **8.48**
+🎓 **B.Tech CSE (AI & ML)** @ GITAM Deemed University, Bangalore — CGPA: **8.70**
 🤖 Passionate about **NLP • Generative AI • Machine Learning • Data Science**
 💼 Actively seeking **AI/ML Internship — Summer 2026**
 🏆 **Smart India Hackathon Runner-Up** | **TCS NQT Qualified** (67.91 percentile)
