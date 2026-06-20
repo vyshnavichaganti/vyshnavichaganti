@@ -8,7 +8,7 @@
 
 ---
 
-🎓 **B.Tech CSE (AI & ML)** @ GITAM Deemed University, Bangalore — CGPA: **8.70**
+🎓 **B.Tech CSE (AI & ML)** @ GITAM Deemed University, Bangalore — CGPA: **8.77**
 🤖 Passionate about **NLP • Generative AI • Machine Learning • Data Science**
 💼 Actively seeking **AI/ML Internship — Summer 2026**
 🏆 **Smart India Hackathon Runner-Up** | **TCS NQT Qualified** (67.91 percentile)
