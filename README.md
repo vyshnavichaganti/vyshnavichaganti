@@ -1,6 +1,6 @@
 # #Hi, I'm Vyshnavi Chaganti 👋
 
-[![Portfolio](https://vyshnavichaganti.github.io/MY-PORTFOLIO/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Vyshnavi_Chaganti-000000?style=for-the-badge&logo=github&logoColor=white)](https://vyshnavichaganti.github.io/MY-PORTFOLIO/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vyshnavi_Chaganti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vyshnavi-chaganti-0bb374293/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-vyshnavichaganti-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/GB2023001544/)
 [![Email](https://img.shields.io/badge/Email-vyshnavireddychaganti12@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vyshnavireddychaganti12@gmail.com)
