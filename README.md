@@ -64,6 +64,16 @@
 
 **Tech:** React • Next.js • TypeScript • Supabase • Vercel
 
+### 🔹 Quick App
+
+> A full-stack application designed to provide a fast and user-friendly digital experience.
+
+* 🚀 Built and developed the application as a practical full-stack project.
+* 🧩 Implemented the core application functionality and user-facing experience.
+* 🌐 Designed the application with a focus on usability, responsiveness, and efficient interaction.
+
+**Tech:** Add the exact technologies used in Quick App here.
+
 ---
 
 ## 💼 Experience
